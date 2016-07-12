@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="http://purl.obolibrary.org/obo/eco.owl" uri="eco.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/go_groupings.owl" uri="subsets/go_groupings.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/go_groupings.owl" uri="subsets/go_groupings.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_biological_process.owl" uri="subsets/valid_with_biological_process.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_biological_process.owl" uri="subsets/valid_with_biological_process.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_cellular_component.owl" uri="subsets/valid_with_cellular_component.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_cellular_component.owl" uri="subsets/valid_with_cellular_component.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_chemical_entity.owl" uri="subsets/valid_with_chemical_entity.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_chemical_entity.owl" uri="subsets/valid_with_chemical_entity.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_gene.owl" uri="subsets/valid_with_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_gene.owl" uri="subsets/valid_with_gene.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_molecular_function.owl" uri="subsets/valid_with_molecular_function.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_molecular_function.owl" uri="subsets/valid_with_molecular_function.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_protein.owl" uri="subsets/valid_with_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_protein.owl" uri="subsets/valid_with_protein.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_protein_complex.owl" uri="subsets/valid_with_protein_complex.owx"/>
+        <uri id="Automatically generated entry, Timestamp=1468331744107" name="duplicate:http://purl.obolibrary.org/obo/eco/subsets/valid_with_protein_complex.owl" uri="subsets/valid_with_protein_complex.owl"/>
+    </group>
+</catalog>

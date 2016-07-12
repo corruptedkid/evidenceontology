@@ -4882,6 +4882,7 @@ SubClassOf(obo:ECO_0001046 obo:ECO_0000021)
 
 # Class: obo:ECO_0001047 (fluorescence in situ hybridization evidence)
 
+AnnotationAssertion(obo:IAO_0000115 obo:ECO_0001047 "is a type of evidence that is collected through FISH (Fluorescence in Situ Hybridization) assay.")
 AnnotationAssertion(oboInOwl:created_by obo:ECO_0001047 "mchibucos"^^xsd:string)
 AnnotationAssertion(oboInOwl:creation_date obo:ECO_0001047 "2014-03-16T11:30:54Z"^^xsd:string)
 AnnotationAssertion(oboInOwl:hasOBONamespace obo:ECO_0001047 "eco"^^xsd:string)
